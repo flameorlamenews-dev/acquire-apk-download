@@ -2,8 +2,8 @@
 
 Latest debug APK for testing Acquire on Android.
 
-Build commit: af4edfc
-SHA256: F77ECA98E678F234F1C471869AB7A7714FD84A65C23C36CF68ED3BEBE5A9DAAC
+Build commit: e4a23e0
+SHA256: B2780870249F850CB80CE7CA17F27B310184DF6CA54BEACD7F4237148F0744A7
 
-Includes seal production export workflow.
+Includes Acquire 2.0 operations backbone.
 
